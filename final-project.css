@@ -1,0 +1,30 @@
+h1 {
+    color: slateblue;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2 {
+    color: cyan;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p {
+    color: aquamarine;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+li {
+    color: greenyellow;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.alpha {
+    background-color: whitesmoke;
+}
+.beta {
+    height: max-content;
+    background-color: darkturquoise;
+}
+.gamma {
+    height: max-content; 
+    background-color:violet;
+}
